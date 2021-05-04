@@ -1,0 +1,6 @@
+framework module UURCCentralizedTokenView {
+  umbrella header "UURCCentralizedTokenView-umbrella.h"
+
+  export *
+  module * { export * }
+}

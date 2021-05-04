@@ -1,0 +1,23 @@
+platform :ios, '10.0'
+
+target 'BMS-Assignment' do
+  use_frameworks!
+
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  
+  pod 'SDWebImage'
+  
+  pod 'UURCCentralizedTokenView', '~> 0.1'
+
+  target 'BMS-AssignmentTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'BMS-AssignmentUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

@@ -1,0 +1,36 @@
+PODS:
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - UURCCentralizedTokenView (0.1.1)
+
+DEPENDENCIES:
+  - RxCocoa
+  - RxSwift
+  - SDWebImage
+  - UURCCentralizedTokenView (~> 0.1)
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - UURCCentralizedTokenView
+
+SPEC CHECKSUMS:
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  UURCCentralizedTokenView: 7e1cc07adcacaf8c5b7f1d564af115f0c8528acd
+
+PODFILE CHECKSUM: e81bbaae1be0678bfbc943f6d285a6e715905876
+
+COCOAPODS: 1.9.3
